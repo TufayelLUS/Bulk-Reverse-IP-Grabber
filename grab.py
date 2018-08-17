@@ -1,4 +1,4 @@
-# Coded by TheChoyon
+# Coded by TheChoyon (Private Script)
 # Mass Domain Collector using Reverse IP lookup
 # IP range Generator included for huge collection!
 # Special Thanks : statsnode.com
