@@ -10,6 +10,6 @@ Usage:
 <br>
 list.txt file should contain unique IP addresses seperated by new line so that your data does not become duplicate thus wasting unusual time!<br>
 Rest of the works are automated!<br>You can toogle between range generator mode.<br>
-Contact for support: https://www.t.me/TheChoyon
+Contact for support: no support!
 <br>
 Thanks to statsnode.com<br>All information collected are provided by statsnode and I will not be responsible for what you do with the information collected by this script.<br>I need nothing, just remember me in your prayer! <b>Don't forget to follow and give stars if liked!</b>
