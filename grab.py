@@ -1,8 +1,6 @@
-# Coded by TheChoyon (Private Script)
 # Mass Domain Collector using Reverse IP lookup
 # IP range Generator included for huge collection!
 # Special Thanks : statsnode.com
-# https://github.com/TheChoyon/Massive-Reverse-IP-Tool
 # 16.08.2018
 import urllib
 from time import sleep
