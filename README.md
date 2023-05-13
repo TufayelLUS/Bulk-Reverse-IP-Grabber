@@ -2,6 +2,8 @@
 WARNING: this script will generate huge list of domains and will take huge time to generate websites depending on your internet speed (upto millions!).<br>Keeping in mind about python's maximum ability to read and write files, kindly do not try to get millions of site at one shot, rather take time and do that in part by part! And if you see nothing is fetched after some moment, it's probably the site is blocking massive request from your IP address. Try using tor chain network to get rid of being blocked to send request to source server. Although I added a sleep timer of 1-2 seconds, but if that doesn't help, increase the sleep(value) in the code or delete if you are sure you are not going to be blocked by the server.
 <br>
 This is not usual Reverse IP address lookup tools you see around!<br>The special ability of this script is, it will generate a valid IP address range for each of the IP addresses you provide! So, that's going to become a massive thing for you! Try it, and let me know your feelings about it!<br><br>
+# Install additional library using the command:
+<pre>pip install requests</pre><br>
 Usage:
 -------
 > $terminal: python grab.py<br>
